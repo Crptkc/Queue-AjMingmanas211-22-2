@@ -1,6 +1,5 @@
 #include <iostream>
 #include <iomanip>
-
 #ifndef node_h
 #define  node_h
 

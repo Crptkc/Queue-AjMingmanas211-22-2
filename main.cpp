@@ -46,6 +46,7 @@ int main(int argc, char* argv[]){
       cout << "Thank you" << "\n\n";
       if(current_cash >= price){
         cout << "Change is : " << current_cash - price << "\n\n";
+        
         current_cash = 0;
       }
       num++;

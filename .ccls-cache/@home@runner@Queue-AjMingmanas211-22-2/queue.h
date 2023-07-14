@@ -16,6 +16,7 @@ public:
   NodePtr getHead();
 };
 
+
 Queue::Queue() {
   size = 0;
   head = nullptr;
